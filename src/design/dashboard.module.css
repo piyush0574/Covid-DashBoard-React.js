@@ -1,0 +1,34 @@
+.titleAndCardContainerBox {
+  margin-top: 0ch;
+  margin-left: 10ch;
+  margin-right: 0ch;
+  background-color: rgb(255, 251, 247);
+  border-radius: 1ch;
+  padding: 4ch;
+}
+.lastUpdatedMessage {
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  color: blue;
+  font-variant: normal;
+  padding-left: 62ch;
+  padding-top: 1ch;
+}
+.refresh_btn {
+  background-color: rgb(243, 250, 250);
+  margin-left: 0.1cm;
+  border: none;
+}
+.refresh_btn:hover {
+  background-color: rgb(209, 112, 112);
+  cursor: pointer;
+}
+.progress_div {
+  margin-top: 4cm;
+  margin-left: 15cm;
+  height: 10ch;
+  width: 10cm;
+}
+.statetablemaindiv {
+  margin-top: 4ch;
+}

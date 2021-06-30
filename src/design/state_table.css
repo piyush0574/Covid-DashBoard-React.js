@@ -1,0 +1,21 @@
+td,
+th {
+  background-color: rgb(231, 247, 247);
+  border-radius: 0.2cm;
+}
+td:hover {
+  background-color: rgb(221, 214, 204);
+}
+th {
+  margin: 4px;
+}
+table {
+  border-radius: 0ch;
+  width: 80%;
+}
+
+th,
+td {
+  padding: 15px;
+  margin: 1cm;
+}
